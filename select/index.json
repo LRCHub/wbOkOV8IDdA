@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "DJ! DJ! 〜とどかぬ想い〜 feat. YOU THE ROCK★",
+  "base_artist": "NONA REEVES",
+  "createdAt": "2025-12-26T16:50:05.011752Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "dj dj",
+      "artist": "transplants",
+      "has_synced": false,
+      "path": "select/01_dj_dj_transplants.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DJ!DJ!〜とどかぬ想い〜",
+      "artist": "Nona Reeves",
+      "has_synced": true,
+      "path": "select/02_DJ!DJ!〜とどかぬ想い〜_Nona_Reeves.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DJ! DJ! 〜とどかぬ想い〜 feat. YOU THE ROCK★",
+      "artist": "ノーナ・リーヴス",
+      "has_synced": true,
+      "path": "select/03_DJ!_DJ!_〜とどかぬ想い〜_feat._YOU_THE_ROCK★_ノーナ・リーヴス.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DJ! DJ! 〜とどかぬ想い〜 feat. YOU THE ROCK★",
+      "artist": "NONA REEVES",
+      "has_synced": true,
+      "path": "select/04_DJ!_DJ!_〜とどかぬ想い〜_feat._YOU_THE_ROCK★_NONA_REEVES.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "DJ DJ",
+      "artist": "Lucas de Lecea",
+      "has_synced": true,
+      "path": "select/05_DJ_DJ_Lucas_de_Lecea.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ghosted DJ (DJ Edit)",
+      "artist": "NeoQor & S3RL feat. Kitty Chan",
+      "has_synced": false,
+      "path": "select/06_Ghosted_DJ_(DJ_Edit)_NeoQor_&_S3RL_feat._Kitty_Chan.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "What Is A DJ? - DJ Edit",
+      "artist": "S3RL feat. Jimini Cricket",
+      "has_synced": true,
+      "path": "select/07_What_Is_A_DJ__-_DJ_Edit_S3RL_feat._Jimini_Cricket.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "What Is A DJ? - DJ Edit",
+      "artist": "S3RL, Jimini Cricket",
+      "has_synced": true,
+      "path": "select/08_What_Is_A_DJ__-_DJ_Edit_S3RL,_Jimini_Cricket.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Valentine's Day Mashup By DJ DJ Nitish Gulyani",
+      "artist": "B Praak, Ammy Virk, Akhil, Happy Raikoti",
+      "has_synced": true,
+      "path": "select/09_Valentine's_Day_Mashup_By_DJ_DJ_Nitish_Gulyani_B_Praak,_Ammy_Virk,_Akhil,_Happy_Raikoti.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Coti x Coti - Mon DJ & DJ Capde Oficial remix",
+      "artist": "The Tyets feat. Mon DJ & DJ Capde",
+      "has_synced": true,
+      "path": "select/10_Coti_x_Coti_-_Mon_DJ_&_DJ_Capde_Oficial_remix_The_Tyets_feat._Mon_DJ_&_DJ_Capde.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Coti x Coti - Mon DJ & DJ Capde Oficial remix",
+      "artist": "The Tyets/Mon DJ/DJ Capde",
+      "has_synced": true,
+      "path": "select/11_Coti_x_Coti_-_Mon_DJ_&_DJ_Capde_Oficial_remix_The_Tyets_Mon_DJ_DJ_Capde.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "MC Pedrinho - Cansei de me apegar (GR6 Explode) Perera DJ, DJ 900, DJ Murillo e LT no Beat",
+      "artist": "GR6 EXPLODE",
+      "has_synced": true,
+      "path": "select/12_MC_Pedrinho_-_Cansei_de_me_apegar_(GR6_Explode)_Perera_DJ,_DJ_900,_DJ_Murillo_e__GR6_EXPLODE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Coti x Coti - Mon DJ & DJ Capde Oficial remix",
+      "artist": "The Tyets",
+      "has_synced": true,
+      "path": "select/13_Coti_x_Coti_-_Mon_DJ_&_DJ_Capde_Oficial_remix_The_Tyets.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "dj dj todokanuomoi",
+      "artist": "nona reeves you the rock",
+      "has_synced": false,
+      "path": "select/14_dj_dj_todokanuomoi_nona_reeves_you_the_rock.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "DJ! DJ! (WHAT HAVE I DONE TO DESERVE THIS?) [feat. YOU THE ROCK]",
+      "artist": "NONA REEVES",
+      "has_synced": true,
+      "path": "select/15_DJ!_DJ!_(WHAT_HAVE_I_DONE_TO_DESERVE_THIS_)_[feat._YOU_THE_ROCK]_NONA_REEVES.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "DJ,DJ",
+      "artist": "Transplants",
+      "has_synced": false,
+      "path": "select/16_DJ,DJ_Transplants.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hit do Ano - O Peso da Luta (feat. MC Leozinho ZS, Mc IG, MC Marks, MC Neguinho do Kaxeta, Mc Vitão Do Savoy, MC Ryan SP, MC Menor da VG, Mc Lele JP, Mc Kelvinho, Perera DJ, DJ Pedro, Djay W, DJ Murillo & LTnoBeat)",
+      "artist": "Mc Hariel, Mc Don Juan & Mc Kevin",
+      "has_synced": true,
+      "path": "select/17_Hit_do_Ano_-_O_Peso_da_Luta_(feat._MC_Leozinho_ZS,_Mc_IG,_MC_Marks,_MC_Neguinho__Mc_Hariel,_Mc_Don_Juan_&_Mc_Kevin.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Sthandwa Sam (feat. BelloM, Epic DJ, DJ Seneath & X-Morizo)",
+      "artist": "2Point1",
+      "has_synced": true,
+      "path": "select/18_Sthandwa_Sam_(feat._BelloM,_Epic_DJ,_DJ_Seneath_&_X-Morizo)_2Point1.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Heaven Send Me a DJ (DJ Antoine vs Mad Mark 2k21 Mix)",
+      "artist": "DJ Antoine",
+      "has_synced": true,
+      "path": "select/19_Heaven_Send_Me_a_DJ_(DJ_Antoine_vs_Mad_Mark_2k21_Mix)_DJ_Antoine.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dj! Dj! ～とどかぬ想い～",
+      "artist": "NONA REEVES",
+      "has_synced": false,
+      "path": "select/pl_01_Dj!_Dj!_~とどかぬ想い~_NONA_REEVES.txt"
+    }
+  ]
+}
